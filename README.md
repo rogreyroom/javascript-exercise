@@ -30,6 +30,13 @@ _Link_: [Repl.it](https://repl.it/@radamczewski/w-dwoch-krokach)
 
 ---
 
+### Emoji
+
+_Description_: Words to emoji.
+
+_Link_: [Repl.it](https://repl.it/@radamczewski/emoji)
+
+---
 ## Version
 
 v.0.0.1
