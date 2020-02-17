@@ -22,9 +22,13 @@ _Link_: [Repl.it](https://repl.it/@radamczewski/walidacja)
 
 ---
 
+### Two steps
 
+_Description_: Higher order function.
 
+_Link_: [Repl.it](https://repl.it/@radamczewski/w-dwoch-krokach)
 
+---
 
 ## Version
 
