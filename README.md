@@ -37,6 +37,15 @@ _Description_: Words to emoji.
 _Link_: [Repl.it](https://repl.it/@radamczewski/emoji)
 
 ---
+
+### Predicate
+
+_Description_: Predicate.
+
+_Link_: [Repl.it](https://repl.it/@radamczewski/predykaty)
+
+---
+
 ## Version
 
 v.0.0.1
