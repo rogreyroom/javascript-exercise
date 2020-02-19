@@ -66,6 +66,12 @@ _Link_: [Repl.it](https://repl.it/@radamczewski/Funkcje-tablicowe)
 
 ---
 
+### Count words
+
+_Link_: [Repl.it](https://repl.it/@radamczewski/Policz-slowa)
+
+---
+
 ## Version
 
 v.0.0.1
