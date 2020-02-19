@@ -60,6 +60,11 @@ _Link_: [Repl.it](https://repl.it/@radamczewski/Mr-Elliot)
 
 ---
 
+### Array functions
+
+_Link_: [Repl.it](https://repl.it/@radamczewski/Funkcje-tablicowe)
+
+---
 
 ## Version
 
