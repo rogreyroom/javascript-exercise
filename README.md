@@ -72,6 +72,12 @@ _Link_: [Repl.it](https://repl.it/@radamczewski/Policz-slowa)
 
 ---
 
+### Anagram
+
+_Link_: [Repl.it](https://repl.it/@radamczewski/Anagram)
+
+---
+
 ## Version
 
 v.0.0.1
