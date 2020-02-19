@@ -42,6 +42,12 @@ _Link_: [Repl.it](https://repl.it/@radamczewski/przeplatanie)
 
 ---
 
+### Pangram
+
+_Link_: [Repl.it](https://repl.it/@radamczewski/pangram)
+
+---
+
 ## Version
 
 v.0.0.1
