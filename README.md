@@ -6,33 +6,25 @@ My small javascript practice projects
 
 You can check this repo or go to the included Repl.it or Stackblitz.com link.
 
-### Reverse it
-
-_Description_: Reverse String.
+### Reverse it (Reverse String)
 
 _Link_: [Repl.it](https://repl.it/@radamczewski/odwroc-to)
 
 ---
 
-### Validate
-
-_Description_: Validate password.
+### Validate (Validate password)
 
 _Link_: [Repl.it](https://repl.it/@radamczewski/walidacja)
 
 ---
 
-### Two steps
-
-_Description_: Higher order function.
+### Two steps (Higher order function)
 
 _Link_: [Repl.it](https://repl.it/@radamczewski/w-dwoch-krokach)
 
 ---
 
-### Emoji
-
-_Description_: Words to emoji.
+### Emoji (Words to emoji)
 
 _Link_: [Repl.it](https://repl.it/@radamczewski/emoji)
 
@@ -40,9 +32,13 @@ _Link_: [Repl.it](https://repl.it/@radamczewski/emoji)
 
 ### Predicate
 
-_Description_: Predicate.
-
 _Link_: [Repl.it](https://repl.it/@radamczewski/predykaty)
+
+---
+
+### ZipIt
+
+_Link_: [Repl.it](https://repl.it/@radamczewski/przeplatanie)
 
 ---
 
