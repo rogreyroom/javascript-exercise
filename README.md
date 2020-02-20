@@ -92,7 +92,7 @@ _Link_: [Repl.it](https://repl.it/@radamczewski/Anagram)
 
 ### Check the brackets accordingly
 
-_Link_: [Repl.it](https://repl.it/@radamczewski/Anagram)
+_Link_: [Repl.it](https://repl.it/@radamczewski/Dopasuj-nawiasy)
 
 ---
 
