@@ -96,6 +96,11 @@ _Link_: [Repl.it](https://repl.it/@radamczewski/Dopasuj-nawiasy)
 
 ---
 
+### HTML String
+
+_Link_: [Repl.it](https://repl.it/@radamczewski/HTML-String)
+
+---
 
 ## Version
 
