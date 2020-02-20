@@ -84,6 +84,12 @@ _Link_: [Repl.it](https://repl.it/@radamczewski/Weryfikacja-ISBN)
 
 ---
 
+### Anagrams
+
+_Link_: [Repl.it](https://repl.it/@radamczewski/Anagram)
+
+---
+
 ## Version
 
 v.0.0.1
