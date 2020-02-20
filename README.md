@@ -90,6 +90,13 @@ _Link_: [Repl.it](https://repl.it/@radamczewski/Anagram)
 
 ---
 
+### Check the brackets accordingly
+
+_Link_: [Repl.it](https://repl.it/@radamczewski/Anagram)
+
+---
+
+
 ## Version
 
 v.0.0.1
