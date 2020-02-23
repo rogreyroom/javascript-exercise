@@ -120,6 +120,12 @@ _Link_: [Stackblitz.com](https://stackblitz.com/edit/zarowka-fplsng)
 
 ---
 
+### Reproduction
+
+_Link_: [Stackblitz.com](https://stackblitz.com/edit/reprodukcja-wkm9en)
+
+---
+
 ## Version
 
 v.0.0.1
